@@ -15,7 +15,7 @@ Database: MySQL
 
 ### Getting Started
 Clone the Repo:
-git clone https://github.com/syrineayb/EduCare.git
+git clone https://github.com/sirineelayeb/E-Learning-Platform-Project.git
 ### Install Dependencies:
 Frontend:
 cd frontend
